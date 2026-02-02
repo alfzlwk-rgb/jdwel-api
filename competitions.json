@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "uefa-champions-league",
+    "name": "دوري أبطال أوروبا",
+    "image": ""
+  },
+  {
+    "id": "england-premier-league",
+    "name": "الدوري الإنجليزي",
+    "image": ""
+  },
+  {
+    "id": "spanish-la-liga",
+    "name": "الدوري الإسباني",
+    "image": ""
+  },
+  {
+    "id": "spanish-super-cup",
+    "name": "كأس السوبر الإسباني",
+    "image": ""
+  },
+  {
+    "id": "italian-league-serie-a",
+    "name": "الدوري الإيطالي",
+    "image": ""
+  },
+  {
+    "id": "italian-super-cup",
+    "name": "كأس السوبر الإيطالي",
+    "image": ""
+  },
+  {
+    "id": "saudi-pro-league",
+    "name": "دوري روشن السعودي",
+    "image": ""
+  },
+  {
+    "id": "saudi-super-cup",
+    "name": "كأس السوبر السعودي",
+    "image": ""
+  },
+  {
+    "id": "saudi-kings-cup",
+    "name": "كأس خادم الحرمين الشريفين",
+    "image": ""
+  },
+  {
+    "id": "afc-champions-league",
+    "name": "دوري أبطال آسيا للنخبة",
+    "image": ""
+  },
+  {
+    "id": "french-ligue-1",
+    "name": "الدوري الفرنسي",
+    "image": ""
+  },
+  {
+    "id": "french-super-cup",
+    "name": "كأس السوبر الفرنسي",
+    "image": ""
+  },
+  {
+    "id": "german-bundesliga",
+    "name": "الدوري الألماني",
+    "image": ""
+  },
+  {
+    "id": "dfl-supercup",
+    "name": "كأس السوبر الألماني",
+    "image": ""
+  },
+  {
+    "id": "world-cup",
+    "name": "كأس العالم",
+    "image": ""
+  },
+  {
+    "id": "uefa-super-cup",
+    "name": "كأس السوبر الأوروبي",
+    "image": ""
+  },
+  {
+    "id": "uefa-europa-league",
+    "name": "الدوري الأوروبي",
+    "image": ""
+  },
+  {
+    "id": "europa-conference-league",
+    "name": "دوري المؤتمر الأوروبي",
+    "image": ""
+  },
+  {
+    "id": "afc-cup",
+    "name": "دوري أبطال آسيا 2",
+    "image": ""
+  },
+  {
+    "id": "arab-club-championship",
+    "name": "البطولة العربية للأندية",
+    "image": ""
+  },
+  {
+    "id": "fa-community-shield",
+    "name": "درع الاتحاد الإنجليزي",
+    "image": ""
+  },
+  {
+    "id": "fa-cup",
+    "name": "كأس الاتحاد الإنجليزي",
+    "image": ""
+  },
+  {
+    "id": "efl-cup",
+    "name": "كأس الرابطة الإنجليزية",
+    "image": ""
+  },
+  {
+    "id": "copa-del-rey",
+    "name": "كأس ملك إسبانيا",
+    "image": ""
+  },
+  {
+    "id": "joan-gamper",
+    "name": "كأس خوان غامبر",
+    "image": ""
+  },
+  {
+    "id": "club-world-cup",
+    "name": "كأس العالم للأندية",
+    "image": ""
+  },
+  {
+    "id": "fifa-intercontinental-cup",
+    "name": "كأس القارات للأندية",
+    "image": ""
+  },
+  {
+    "id": "world-cup-u20",
+    "name": "كأس العالم للشباب",
+    "image": ""
+  },
+  {
+    "id": "uefa-nations-league",
+    "name": "دوري الأمم الأوروبية",
+    "image": ""
+  },
+  {
+    "id": "euro-nations-cup",
+    "name": "كأس أمم أوروبا",
+    "image": ""
+  },
+  {
+    "id": "confederations-cup",
+    "name": "كأس القارات",
+    "image": ""
+  },
+  {
+    "id": "copa-america",
+    "name": "كوبا أمريكا",
+    "image": ""
+  },
+  {
+    "id": "conmebol-uefa",
+    "name": "كأس أوروبا أمريكا الجنوبية",
+    "image": ""
+  },
+  {
+    "id": "olympic-games",
+    "name": "أولمبياد كرة القدم",
+    "image": ""
+  },
+  {
+    "id": "afc-asian-cup",
+    "name": "كأس آسيا",
+    "image": ""
+  },
+  {
+    "id": "africa-cup-of-nations",
+    "name": "كأس أمم أفريقيا",
+    "image": ""
+  },
+  {
+    "id": "arab-cup",
+    "name": "كأس العرب",
+    "image": ""
+  },
+  {
+    "id": "arab-gulf-cup",
+    "name": "كأس الخليج",
+    "image": ""
+  },
+  {
+    "id": "gulf-club-champions",
+    "name": "دوري أبطال الخليج",
+    "image": ""
+  },
+  {
+    "id": "caf-champions-league",
+    "name": "دوري أبطال أفريقيا",
+    "image": ""
+  },
+  {
+    "id": "caf-confederations-cup",
+    "name": "كأس الكونفدرالية",
+    "image": ""
+  },
+  {
+    "id": "caf-super-cup",
+    "name": "كأس السوبر الأفريقي",
+    "image": ""
+  },
+  {
+    "id": "african-football-league",
+    "name": "دوري السوبر الأفريقي",
+    "image": ""
+  },
+  {
+    "id": "egyptian-premier-league",
+    "name": "الدوري المصري",
+    "image": ""
+  },
+  {
+    "id": "egypt-cup",
+    "name": "كأس مصر",
+    "image": ""
+  },
+  {
+    "id": "efa-cup",
+    "name": "كأس الرابطة المصرية",
+    "image": ""
+  },
+  {
+    "id": "egyptian-super-cup",
+    "name": "كأس السوبر المصري",
+    "image": ""
+  },
+  {
+    "id": "moroccan-league-botola-pro",
+    "name": "الدوري المغربي",
+    "image": ""
+  },
+  {
+    "id": "moroccan-throne-cup",
+    "name": "كأس العرش المغربي",
+    "image": ""
+  },
+  {
+    "id": "moroccan-excellence-cup",
+    "name": "كأس التميز المغربي",
+    "image": ""
+  },
+  {
+    "id": "algerian-ligue-1",
+    "name": "الدوري الجزائري",
+    "image": ""
+  },
+  {
+    "id": "algeria-cup",
+    "name": "كأس الجزائر",
+    "image": ""
+  },
+  {
+    "id": "algerian-super-cup",
+    "name": "كأس السوبر الجزائري",
+    "image": ""
+  },
+  {
+    "id": "tunisian-ligue-1",
+    "name": "الدوري التونسي",
+    "image": ""
+  },
+  {
+    "id": "tunisian-cup",
+    "name": "كأس تونس",
+    "image": ""
+  },
+  {
+    "id": "tunisian-super-cup",
+    "name": "كأس السوبر التونسي",
+    "image": ""
+  },
+  {
+    "id": "saudi-crown-prince-cup",
+    "name": "كأس ولي العهد السعودي",
+    "image": ""
+  },
+  {
+    "id": "saudi-division-1",
+    "name": "دوري الدرجة الأولى السعودي",
+    "image": ""
+  },
+  {
+    "id": "saudi-reserve-league",
+    "name": "دوري الرديف السعودي",
+    "image": ""
+  },
+  {
+    "id": "world-cup-qualification",
+    "name": "الملحق العالمي لكأس العالم",
+    "image": ""
+  },
+  {
+    "id": "euro-qualification",
+    "name": "تصفيات أمم أوروبا",
+    "image": ""
+  },
+  {
+    "id": "world-cup-qualification-europe",
+    "name": "تصفيات كأس العالم أوروبا",
+    "image": ""
+  },
+  {
+    "id": "world-cup-qualification-asia",
+    "name": "تصفيات كأس العالم آسيا",
+    "image": ""
+  },
+  {
+    "id": "world-cup-qualification-africa",
+    "name": "تصفيات كأس العالم أفريقيا",
+    "image": ""
+  },
+  {
+    "id": "world-cup-qualification-south-america",
+    "name": "تصفيات كأس العالم أمريكا الجنوبية",
+    "image": ""
+  },
+  {
+    "id": "africa-cup-of-nations-qualifications",
+    "name": "تصفيات أمم أفريقيا",
+    "image": ""
+  },
+  {
+    "id": "asian-cup-qualification",
+    "name": "تصفيات كأس آسيا",
+    "image": ""
+  },
+  {
+    "id": "saudi-egyptian-cup",
+    "name": "كأس السوبر السعودي المصري",
+    "image": ""
+  },
+  {
+    "id": "concacaf-gold-cup",
+    "name": "كأس الكونكاكاف الذهبية",
+    "image": ""
+  },
+  {
+    "id": "world-cup-women",
+    "name": "كأس العالم للسيدات",
+    "image": ""
+  },
+  {
+    "id": "women-olympic-games",
+    "name": "أولمبياد كرة القدم للسيدات",
+    "image": ""
+  },
+  {
+    "id": "women-euro",
+    "name": "بطولة أمم أوروبا للسيدات",
+    "image": ""
+  },
+  {
+    "id": "copa-america-women",
+    "name": "كوبا أمريكا للسيدات",
+    "image": ""
+  },
+  {
+    "id": "african-championship-women",
+    "name": "كأس أمم أفريقيا للسيدات",
+    "image": ""
+  },
+  {
+    "id": "euro-u21",
+    "name": "بطولة أوروبا تحت 21 سنة",
+    "image": ""
+  },
+  {
+    "id": "uefa-championship-u17",
+    "name": "بطولة أوروبا تحت 17 سنة",
+    "image": ""
+  },
+  {
+    "id": "afc-championship-u23",
+    "name": "كأس آسيا تحت 23 سنة",
+    "image": ""
+  },
+  {
+    "id": "west-asia",
+    "name": "بطولة غرب آسيا",
+    "image": ""
+  },
+  {
+    "id": "west-asia-u23",
+    "name": "بطولة غرب آسيا تحت 23 سنة",
+    "image": ""
+  },
+  {
+    "id": "asian-cup-u20",
+    "name": "كأس آسيا للشباب",
+    "image": ""
+  },
+  {
+    "id": "africa-cup-of-nations-u23",
+    "name": "كأس أمم أفريقيا تحت 23 سنة",
+    "image": ""
+  },
+  {
+    "id": "africa-cup-of-nations-u17",
+    "name": "كأس أمم أفريقيا للناشئين",
+    "image": ""
+  },
+  {
+    "id": "africa-nations-u20",
+    "name": "كأس أمم أفريقيا للشباب",
+    "image": ""
+  },
+  {
+    "id": "african-nations-championship",
+    "name": "بطولة أمم أفريقيا للمحليين",
+    "image": ""
+  },
+  {
+    "id": "arab-cup-u20",
+    "name": "كأس العرب للشباب",
+    "image": ""
+  },
+  {
+    "id": "world-cup-u17",
+    "name": "كأس العالم للناشئين",
+    "image": ""
+  },
+  {
+    "id": "afc-asian-cup-u17",
+    "name": "كأس آسيا للناشئين",
+    "image": ""
+  },
+  {
+    "id": "pan-arab-games",
+    "name": "الألعاب العربية",
+    "image": ""
+  },
+  {
+    "id": "arab-cup-u17",
+    "name": "كأس العرب للناشئين",
+    "image": ""
+  },
+  {
+    "id": "eredivisie",
+    "name": "الدوري الهولندي",
+    "image": ""
+  },
+  {
+    "id": "dutch-super-cup",
+    "name": "كأس السوبر الهولندي",
+    "image": ""
+  },
+  {
+    "id": "portugal-primeira-liga",
+    "name": "الدوري البرتغالي",
+    "image": ""
+  },
+  {
+    "id": "portuguese-super-cup",
+    "name": "كأس السوبر البرتغالي",
+    "image": ""
+  },
+  {
+    "id": "taca-da-liga",
+    "name": "كأس الدوري البرتغالي",
+    "image": ""
+  },
+  {
+    "id": "efl-championship",
+    "name": "تشامبيونشيب",
+    "image": ""
+  },
+  {
+    "id": "efl-trophy",
+    "name": "كأس رابطة الدوري الإنجليزي",
+    "image": ""
+  },
+  {
+    "id": "league-one",
+    "name": "الدوري الإنجليزي الدرجة الثانية",
+    "image": ""
+  },
+  {
+    "id": "efl-league-two",
+    "name": "الدوري الإنجليزي الدرجة الثالثة",
+    "image": ""
+  },
+  {
+    "id": "la-liga-2",
+    "name": "الدوري الإسباني الدرجة الثانية",
+    "image": ""
+  },
+  {
+    "id": "belgian-division-a",
+    "name": "الدوري البلجيكي",
+    "image": ""
+  },
+  {
+    "id": "belgian-super-cup",
+    "name": "كأس السوبر البلجيكي",
+    "image": ""
+  },
+  {
+    "id": "coppa-italia",
+    "name": "كأس إيطاليا",
+    "image": ""
+  },
+  {
+    "id": "coupe-de-france",
+    "name": "كأس فرنسا",
+    "image": ""
+  },
+  {
+    "id": "coupe-de-la-ligue",
+    "name": "كأس الرابطة الفرنسية",
+    "image": ""
+  },
+  {
+    "id": "dfb-pokal",
+    "name": "كأس ألمانيا",
+    "image": ""
+  },
+  {
+    "id": "taca-de-portugal",
+    "name": "كأس البرتغال",
+    "image": ""
+  },
+  {
+    "id": "knvb-beker",
+    "name": "كأس هولندا",
+    "image": ""
+  },
+  {
+    "id": "belgian-cup",
+    "name": "كأس بلجيكا",
+    "image": ""
+  },
+  {
+    "id": "uae-pro-league",
+    "name": "الدوري الإماراتي",
+    "image": ""
+  },
+  {
+    "id": "uae-super-cup",
+    "name": "كأس السوبر الإماراتي",
+    "image": ""
+  },
+  {
+    "id": "arabian-gulf-cup-uae",
+    "name": "كأس مصرف أبو ظبي الإسلامي",
+    "image": ""
+  },
+  {
+    "id": "uae-presidents-cup",
+    "name": "كأس رئيس الدولة الإماراتي",
+    "image": ""
+  },
+  {
+    "id": "qatari-league",
+    "name": "الدوري القطري",
+    "image": ""
+  },
+  {
+    "id": "qatar-cup",
+    "name": "كأس قطر",
+    "image": ""
+  },
+  {
+    "id": "qsl-cup",
+    "name": "كأس QSL القطرية",
+    "image": ""
+  },
+  {
+    "id": "qatar-emir-cup",
+    "name": "كأس الأمير قطر",
+    "image": ""
+  },
+  {
+    "id": "qfa-cup",
+    "name": "كأس الاتحاد القطري",
+    "image": ""
+  },
+  {
+    "id": "qatar-uae-super-cup",
+    "name": "كأس السوبر القطري الإماراتي",
+    "image": ""
+  },
+  {
+    "id": "qatar-uae-super-shield",
+    "name": "درع السوبر الإماراتي القطري",
+    "image": ""
+  },
+  {
+    "id": "qatar-uae-challenge-cup",
+    "name": "كأس التحدي القطري الإماراتي",
+    "image": ""
+  },
+  {
+    "id": "qatar-uae-challenge-shield",
+    "name": "درع التحدي القطري الإماراتي",
+    "image": ""
+  },
+  {
+    "id": "jordanian-pro-league",
+    "name": "الدوري الأردني",
+    "image": ""
+  },
+  {
+    "id": "jordan-super-cup",
+    "name": "كأس السوبر الأردني",
+    "image": ""
+  },
+  {
+    "id": "jordan-shield-cup",
+    "name": "درع الاتحاد الأردني",
+    "image": ""
+  },
+  {
+    "id": "jordan-cup",
+    "name": "كأس الأردن",
+    "image": ""
+  },
+  {
+    "id": "iraqi-premier-league",
+    "name": "الدوري العراقي",
+    "image": ""
+  },
+  {
+    "id": "iraq-cup",
+    "name": "كأس العراق",
+    "image": ""
+  },
+  {
+    "id": "iraqi-super-cup",
+    "name": "كأس السوبر العراقي",
+    "image": ""
+  },
+  {
+    "id": "kuwaiti-premier-league",
+    "name": "الدوري الكويتي",
+    "image": ""
+  },
+  {
+    "id": "kuwait-super-cup",
+    "name": "كأس السوبر الكويتي",
+    "image": ""
+  },
+  {
+    "id": "kuwait-crown-prince",
+    "name": "كأس ولي العهد الكويتي",
+    "image": ""
+  },
+  {
+    "id": "kuwait-emir-cup",
+    "name": "كأس الأمير الكويتي",
+    "image": ""
+  },
+  {
+    "id": "kuwait-federation-cup",
+    "name": "كأس الاتحاد الكويتي",
+    "image": ""
+  },
+  {
+    "id": "kuwait-ranking-league",
+    "name": "دوري التصنيف الكويتي",
+    "image": ""
+  },
+  {
+    "id": "oman-professional-league",
+    "name": "الدوري العماني",
+    "image": ""
+  },
+  {
+    "id": "sultan-cup-oman",
+    "name": "كأس السلطان العماني",
+    "image": ""
+  },
+  {
+    "id": "oman-super-cup",
+    "name": "كأس السوبر العماني",
+    "image": ""
+  },
+  {
+    "id": "oman-first-division-league",
+    "name": "الدوري العماني الدرجة الأولى",
+    "image": ""
+  },
+  {
+    "id": "bahraini-premier-league",
+    "name": "الدوري البحريني",
+    "image": ""
+  },
+  {
+    "id": "bahrain-kings-cup",
+    "name": "كأس ملك البحرين",
+    "image": ""
+  },
+  {
+    "id": "bahrain-super-cup",
+    "name": "كأس السوبر البحريني",
+    "image": ""
+  },
+  {
+    "id": "syrian-premier-league",
+    "name": "الدوري السوري",
+    "image": ""
+  },
+  {
+    "id": "libyan-premier-league",
+    "name": "الدوري الليبي",
+    "image": ""
+  },
+  {
+    "id": "libyan-cup",
+    "name": "كأس ليبيا",
+    "image": ""
+  },
+  {
+    "id": "libyan-super-cup",
+    "name": "كأس السوبر الليبي",
+    "image": ""
+  },
+  {
+    "id": "palestinian-premier-league",
+    "name": "الدوري الفلسطيني",
+    "image": ""
+  },
+  {
+    "id": "lebanon-premier-league",
+    "name": "الدوري اللبناني",
+    "image": ""
+  },
+  {
+    "id": "sudan-premier-league",
+    "name": "الدوري السوداني",
+    "image": ""
+  },
+  {
+    "id": "afc-challenge-league",
+    "name": "دوري التحدي الآسيوي",
+    "image": ""
+  },
+  {
+    "id": "turkish-super-lig",
+    "name": "الدوري التركي",
+    "image": ""
+  },
+  {
+    "id": "turkish-cup",
+    "name": "كأس تركيا",
+    "image": ""
+  },
+  {
+    "id": "turkish-super-cup",
+    "name": "كأس السوبر التركي",
+    "image": ""
+  },
+  {
+    "id": "russian-premier-league",
+    "name": "الدوري الروسي",
+    "image": ""
+  },
+  {
+    "id": "russian-super-cup",
+    "name": "كأس السوبر الروسي",
+    "image": ""
+  },
+  {
+    "id": "russian-cup",
+    "name": "كأس روسيا",
+    "image": ""
+  },
+  {
+    "id": "scottish",
+    "name": "الدوري الإسكتلندي",
+    "image": ""
+  },
+  {
+    "id": "scottish-cup",
+    "name": "كأس إسكتلندا",
+    "image": ""
+  },
+  {
+    "id": "scottish-league-cup",
+    "name": "كأس الدوري الإسكتلندي",
+    "image": ""
+  },
+  {
+    "id": "chinese-super-league",
+    "name": "الدوري الصيني",
+    "image": ""
+  },
+  {
+    "id": "swiss-super-league",
+    "name": "الدوري السويسري",
+    "image": ""
+  },
+  {
+    "id": "danish-superliga",
+    "name": "الدوري الدنماركي",
+    "image": ""
+  },
+  {
+    "id": "super-league-greece",
+    "name": "الدوري اليوناني",
+    "image": ""
+  },
+  {
+    "id": "greek-cup",
+    "name": "كأس اليونان",
+    "image": ""
+  },
+  {
+    "id": "allsvenskan",
+    "name": "الدوري السويدي الممتاز",
+    "image": ""
+  },
+  {
+    "id": "persian-pro-league",
+    "name": "الدوري الإيراني",
+    "image": ""
+  },
+  {
+    "id": "iranian-hazfi-cup",
+    "name": "كأس إيران",
+    "image": ""
+  },
+  {
+    "id": "cafa-nations-cup",
+    "name": "بطولة اتحاد وسط آسيا",
+    "image": ""
+  },
+  {
+    "id": "saff-championship",
+    "name": "بطولة اتحاد جنوب آسيا",
+    "image": ""
+  },
+  {
+    "id": "copa-libertadores",
+    "name": "كوبا ليبرتادوريس",
+    "image": ""
+  },
+  {
+    "id": "copa-sudamericana",
+    "name": "كوبا سود أمريكانا",
+    "image": ""
+  },
+  {
+    "id": "recopa-sudamericana",
+    "name": "ريكوبا سود أمريكانا",
+    "image": ""
+  },
+  {
+    "id": "brasileiro-serie-a",
+    "name": "الدوري البرازيلي",
+    "image": ""
+  },
+  {
+    "id": "supercopa-do-brasil",
+    "name": "كأس السوبر البرازيلي",
+    "image": ""
+  },
+  {
+    "id": "copa-do-brasil",
+    "name": "كأس البرازيل",
+    "image": ""
+  },
+  {
+    "id": "campeonato-paulista",
+    "name": "بطولة باوليستا",
+    "image": ""
+  },
+  {
+    "id": "major-league-soccer",
+    "name": "الدوري الأمريكي",
+    "image": ""
+  },
+  {
+    "id": "us-open-cup",
+    "name": "كأس الولايات المتحدة المفتوحة",
+    "image": ""
+  },
+  {
+    "id": "leagues-cup",
+    "name": "كأس الدوريات",
+    "image": ""
+  },
+  {
+    "id": "concacaf-champions-league",
+    "name": "كأس أبطال الكونكاكاف",
+    "image": ""
+  },
+  {
+    "id": "superliga-argentina",
+    "name": "الدوري الأرجنتيني",
+    "image": ""
+  },
+  {
+    "id": "copa-de-la-superliga",
+    "name": "كأس رابطة الدوري الارجنتيني",
+    "image": ""
+  },
+  {
+    "id": "supercopa-argentina",
+    "name": "كأس السوبر الأرجنتيني",
+    "image": ""
+  },
+  {
+    "id": "copa-argentina",
+    "name": "كأس الأرجنتين",
+    "image": ""
+  },
+  {
+    "id": "trofeo-de-campeones",
+    "name": "كأس أبطال الدوري الأرجنتيني",
+    "image": ""
+  },
+  {
+    "id": "mexican-league",
+    "name": "الدوري المكسيكي",
+    "image": ""
+  },
+  {
+    "id": "j-league",
+    "name": "الدوري الياباني",
+    "image": ""
+  },
+  {
+    "id": "k-league",
+    "name": "الدوري الكوري الجنوبي",
+    "image": ""
+  },
+  {
+    "id": "australian-a-league",
+    "name": "الدوري الأسترالي",
+    "image": ""
+  },
+  {
+    "id": "south-african-premier",
+    "name": "دوري جنوب أفريقيا",
+    "image": ""
+  },
+  {
+    "id": "rwanda-premier-league",
+    "name": "الدوري الرواندي الممتاز",
+    "image": ""
+  },
+  {
+    "id": "world-cup-qualification-concacaf",
+    "name": "تصفيات كأس العالم أمريكا الشمالية",
+    "image": ""
+  },
+  {
+    "id": "world-cup-qualification-oceania",
+    "name": "تصفيات كأس العالم أوقيانوسيا",
+    "image": ""
+  },
+  {
+    "id": "concacaf-nations-league",
+    "name": "دوري أمم الكونكاكاف",
+    "image": ""
+  },
+  {
+    "id": "malaysia-super-league",
+    "name": "دوري السوبر الماليزي",
+    "image": ""
+  },
+  {
+    "id": "saudi-league-division-2",
+    "name": "دوري الدرجة الثانية السعودي",
+    "image": ""
+  },
+  {
+    "id": "saudi-women-league",
+    "name": "الدوري السعودي للسيدات",
+    "image": ""
+  },
+  {
+    "id": "saff-women-cup",
+    "name": "كأس الاتحاد السعودي للسيدات",
+    "image": ""
+  },
+  {
+    "id": "saudi-women-super",
+    "name": "كأس السوبر السعودي للسيدات",
+    "image": ""
+  },
+  {
+    "id": "saudi-league-u21",
+    "name": "دوري جوي للنخبة السعودي تحت 21",
+    "image": ""
+  },
+  {
+    "id": "saudi-youth-league",
+    "name": "الدوري السعودي للشباب",
+    "image": ""
+  },
+  {
+    "id": "saudi-league-u17",
+    "name": "الدوري السعودي للناشئين",
+    "image": ""
+  },
+  {
+    "id": "italian-serie-b",
+    "name": "الدوري الإيطالي الدرجة الثانية",
+    "image": ""
+  },
+  {
+    "id": "france-ligue-2",
+    "name": "الدوري الفرنسي الدرجة الثانية",
+    "image": ""
+  },
+  {
+    "id": "2-bundesliga",
+    "name": "الدوري الألماني الدرجة الثانية",
+    "image": ""
+  },
+  {
+    "id": "africa-u23-cup-of-nations-qualification",
+    "name": "تصفيات أمم أفريقيا تحت 23 سنة",
+    "image": ""
+  },
+  {
+    "id": "asian-games",
+    "name": "دورة الألعاب الآسيوية",
+    "image": ""
+  },
+  {
+    "id": "afc-u23-qualification",
+    "name": "تصفيات كأس آسيا تحت 23 سنة",
+    "image": ""
+  },
+  {
+    "id": "asian-cup-qualification-u20",
+    "name": "تصفيات كأس آسيا للشباب",
+    "image": ""
+  },
+  {
+    "id": "afc-u17-qualification",
+    "name": "تصفيات كأس آسيا للناشئين",
+    "image": ""
+  },
+  {
+    "id": "west-asia-championship-u19",
+    "name": "بطولة غرب آسيا للشباب",
+    "image": ""
+  },
+  {
+    "id": "west-asia-championship-u17",
+    "name": "بطولة غرب آسيا للناشئين",
+    "image": ""
+  },
+  {
+    "id": "european-u%e2%80%9119",
+    "name": "بطولة أوروبا تحت 19 سنة",
+    "image": ""
+  },
+  {
+    "id": "uefa-youth-league",
+    "name": "دوري أبطال أوروبا للشباب",
+    "image": ""
+  },
+  {
+    "id": "gulf-cup-u23",
+    "name": "كأس الخليج تحت 23 سنة",
+    "image": ""
+  },
+  {
+    "id": "gulf-cup-u20",
+    "name": "كأس الخليج للشباب",
+    "image": ""
+  },
+  {
+    "id": "gulf-cup-u17",
+    "name": "كأس الخليج للناشئين",
+    "image": ""
+  },
+  {
+    "id": "maurice-revello-tournament",
+    "name": "دورة تولون الدولية",
+    "image": ""
+  },
+  {
+    "id": "mediterranean-games",
+    "name": "دورة ألعاب البحر الأبيض المتوسط",
+    "image": ""
+  },
+  {
+    "id": "egyptian-division-a",
+    "name": "الدوري المصري الدرجة الثانية",
+    "image": ""
+  },
+  {
+    "id": "mauritania-super-d1",
+    "name": "الدوري الموريتاني الممتاز",
+    "image": ""
+  },
+  {
+    "id": "botola-2",
+    "name": "الدوري المغربي القسم الثاني",
+    "image": ""
+  },
+  {
+    "id": "ligue-2",
+    "name": "الدوري الجزائري القسم الثاني",
+    "image": ""
+  },
+  {
+    "id": "tunisian-ligue-2",
+    "name": "الدوري التونسي الدرجة الثانية",
+    "image": ""
+  },
+  {
+    "id": "croatian-football-league",
+    "name": "الدوري الكرواتي الممتاز",
+    "image": ""
+  },
+  {
+    "id": "hungarian-league",
+    "name": "الدوري المجري الممتاز",
+    "image": ""
+  },
+  {
+    "id": "serbian-league",
+    "name": "الدوري الصربي الممتاز",
+    "image": ""
+  },
+  {
+    "id": "portuguesa-segunda",
+    "name": "الدوري البرتغالي الدرجة الثانية",
+    "image": ""
+  },
+  {
+    "id": "eerste-divisie",
+    "name": "الدوري الهولندي الدرجة الأولى",
+    "image": ""
+  },
+  {
+    "id": "eliteserien",
+    "name": "الدوري النرويجي",
+    "image": ""
+  },
+  {
+    "id": "austrian-bundesliga",
+    "name": "الدوري النمساوي",
+    "image": ""
+  },
+  {
+    "id": "ekstraklasa",
+    "name": "الدوري البولندي الممتاز",
+    "image": ""
+  },
+  {
+    "id": "czech-first-league",
+    "name": "الدوري التشيكي الممتاز",
+    "image": ""
+  },
+  {
+    "id": "ukrainian-premier-league",
+    "name": "الدوري الأوكراني الممتاز",
+    "image": ""
+  },
+  {
+    "id": "romanian-league",
+    "name": "الدوري الروماني",
+    "image": ""
+  },
+  {
+    "id": "slovenian-prvaliga",
+    "name": "الدوري السلوفيني",
+    "image": ""
+  },
+  {
+    "id": "bulgarian-league",
+    "name": "الدوري البلغاري",
+    "image": ""
+  },
+  {
+    "id": "slovak-first-league",
+    "name": "الدوري السلوفاكي",
+    "image": ""
+  },
+  {
+    "id": "albanian-superliga",
+    "name": "دوري السوبر الألباني",
+    "image": ""
+  },
+  {
+    "id": "uzbekistan-super-league",
+    "name": "الدوري الأوزبكي",
+    "image": ""
+  },
+  {
+    "id": "indonesia-liga-1",
+    "name": "الدوري الإندونيسي",
+    "image": ""
+  },
+  {
+    "id": "thai-league-1",
+    "name": "الدوري التايلندي",
+    "image": ""
+  },
+  {
+    "id": "vietnam-league",
+    "name": "الدوري الفيتنامي",
+    "image": ""
+  },
+  {
+    "id": "bosnia-premier-liga",
+    "name": "دوري البوسنة والهرسك الممتاز",
+    "image": ""
+  },
+  {
+    "id": "veikkausliiga",
+    "name": "الدوري الفنلندي",
+    "image": ""
+  },
+  {
+    "id": "uruguayan-primera-division",
+    "name": "دوري الأوروغواي الممتاز",
+    "image": ""
+  },
+  {
+    "id": "ofc-champions-league",
+    "name": "دوري أبطال أوقيانوسيا",
+    "image": ""
+  },
+  {
+    "id": "premier-summer-series",
+    "name": "سلسلة الدوري الإنجليزي الصيفية",
+    "image": ""
+  },
+  {
+    "id": "emirates-cup",
+    "name": "كأس الإمارات",
+    "image": ""
+  },
+  {
+    "id": "jleague-world-challenge",
+    "name": "تحدي العالم الدوري الياباني",
+    "image": ""
+  },
+  {
+    "id": "dubai-challenge-cup",
+    "name": "كأس تحدي دبي",
+    "image": ""
+  },
+  {
+    "id": "florida-cup",
+    "name": "كأس فلوريدا",
+    "image": ""
+  },
+  {
+    "id": "thailand-kings-cup",
+    "name": "كأس ملك تايلاند",
+    "image": ""
+  },
+  {
+    "id": "canadian-premier-league",
+    "name": "الدوري الكندي الممتاز",
+    "image": ""
+  },
+  {
+    "id": "womens-champions-league",
+    "name": "دوري أبطال أوروبا للسيدات",
+    "image": ""
+  },
+  {
+    "id": "liga-f",
+    "name": "الدوري الإسباني للسيدات",
+    "image": ""
+  },
+  {
+    "id": "supercopa-femenina",
+    "name": "كأس السوبر الإسباني للسيدات",
+    "image": ""
+  },
+  {
+    "id": "copa-de-la-reina",
+    "name": "كأس ملكة إسبانيا للسيدات",
+    "image": ""
+  },
+  {
+    "id": "womens-super-league",
+    "name": "الدوري الإنجليزي للسيدات",
+    "image": ""
+  },
+  {
+    "id": "nwsl",
+    "name": "الدوري الأمريكي للسيدات",
+    "image": ""
+  },
+  {
+    "id": "frauen-bundesliga",
+    "name": "الدوري الألماني للسيدات",
+    "image": ""
+  },
+  {
+    "id": "french-women-league",
+    "name": "الدوري الفرنسي للسيدات",
+    "image": ""
+  },
+  {
+    "id": "serie-a-women",
+    "name": "الدوري الإيطالي للسيدات",
+    "image": ""
+  },
+  {
+    "id": "afc-wcl",
+    "name": "دوري أبطال آسيا للسيدات",
+    "image": ""
+  },
+  {
+    "id": "moroccan-women",
+    "name": "الدوري المغربي للسيدات",
+    "image": ""
+  },
+  {
+    "id": "a-league-women",
+    "name": "الدوري الاسترالي للسيدات",
+    "image": ""
+  },
+  {
+    "id": "brasileiro-women",
+    "name": "الدوري البرازيلي للسيدات",
+    "image": ""
+  },
+  {
+    "id": "paulista-women",
+    "name": "بطولة باوليستا للسيدات",
+    "image": ""
+  },
+  {
+    "id": "national-league-women",
+    "name": "الدوري النيوزيلندي للسيدات",
+    "image": ""
+  },
+  {
+    "id": "asean-club-championship",
+    "name": "بطولة الأندية الآسيانية",
+    "image": ""
+  },
+  {
+    "id": "cecafa-kagame-cup",
+    "name": "كأس سيكافا للأندية",
+    "image": ""
+  }
+]
