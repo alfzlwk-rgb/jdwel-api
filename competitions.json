@@ -1,1352 +1,1352 @@
 [
   {
     "id": "uefa-champions-league",
-    "name": "دوري أبطال أوروبا",
-    "image": ""
+    "name": "دوري أبطال أوروبا -",
+    "image": "https://jdwel.com/image/comp-logo/122.png"
   },
   {
     "id": "england-premier-league",
-    "name": "الدوري الإنجليزي",
-    "image": ""
+    "name": "الدوري الإنجليزي الممتاز",
+    "image": "https://jdwel.com/image/comp-logo/154.png"
   },
   {
     "id": "spanish-la-liga",
-    "name": "الدوري الإسباني",
-    "image": ""
+    "name": "الدوري الإسباني الدرجة الأولى",
+    "image": "https://jdwel.com/image/comp-logo/la-liga-2023.png"
   },
   {
     "id": "spanish-super-cup",
-    "name": "كأس السوبر الإسباني",
-    "image": ""
+    "name": "كأس السوبر الإسباني -",
+    "image": "https://jdwel.com/image/comp-logo/20.png"
   },
   {
     "id": "italian-league-serie-a",
-    "name": "الدوري الإيطالي",
-    "image": ""
+    "name": "الدوري الإيطالي الدرجة الأولى",
+    "image": "https://jdwel.com/image/comp-logo/serie-a-v3.png"
   },
   {
     "id": "italian-super-cup",
-    "name": "كأس السوبر الإيطالي",
-    "image": ""
+    "name": "كأس السوبر الإيطالي -",
+    "image": "https://jdwel.com/image/comp-logo/21.png"
   },
   {
     "id": "saudi-pro-league",
-    "name": "دوري روشن السعودي",
-    "image": ""
+    "name": "دوري روشن السعودي للمحترفين",
+    "image": "https://jdwel.com/image/comp-logo/172.png"
   },
   {
     "id": "saudi-super-cup",
-    "name": "كأس السوبر السعودي",
-    "image": ""
+    "name": "كأس السوبر السعودي -",
+    "image": "https://jdwel.com/image/comp-logo/11.png"
   },
   {
     "id": "saudi-kings-cup",
-    "name": "كأس خادم الحرمين الشريفين",
-    "image": ""
+    "name": "كأس خادم الحرمين الشريفين كأس الملك السعودي",
+    "image": "https://jdwel.com/image/comp-logo/12.png"
   },
   {
     "id": "afc-champions-league",
-    "name": "دوري أبطال آسيا للنخبة",
-    "image": ""
+    "name": "دوري أبطال آسيا للنخبة -",
+    "image": "https://jdwel.com/image/comp-logo/50.png"
   },
   {
     "id": "french-ligue-1",
-    "name": "الدوري الفرنسي",
-    "image": ""
+    "name": "الدوري الفرنسي الدرجة الأولى",
+    "image": "https://jdwel.com/image/comp-logo/47.png"
   },
   {
     "id": "french-super-cup",
-    "name": "كأس السوبر الفرنسي",
-    "image": ""
+    "name": "كأس السوبر الفرنسي -",
+    "image": "https://jdwel.com/image/comp-logo/french-super-cup.png"
   },
   {
     "id": "german-bundesliga",
-    "name": "الدوري الألماني",
-    "image": ""
+    "name": "الدوري الألماني الدرجة الأولى",
+    "image": "https://jdwel.com/image/comp-logo/bundesliga-v2.png"
   },
   {
     "id": "dfl-supercup",
-    "name": "كأس السوبر الألماني",
-    "image": ""
+    "name": "كأس السوبر الألماني -",
+    "image": "https://jdwel.com/image/comp-logo/dfl-supercup.png"
   },
   {
     "id": "world-cup",
-    "name": "كأس العالم",
-    "image": ""
+    "name": "كأس العالم -",
+    "image": "https://jdwel.com/image/comp-logo/57.png"
   },
   {
     "id": "uefa-super-cup",
-    "name": "كأس السوبر الأوروبي",
-    "image": ""
+    "name": "كأس السوبر الأوروبي -",
+    "image": "https://jdwel.com/image/comp-logo/uefa-super-cup.png"
   },
   {
     "id": "uefa-europa-league",
-    "name": "الدوري الأوروبي",
-    "image": ""
+    "name": "الدوري الأوروبي -",
+    "image": "https://jdwel.com/image/comp-logo/67.png"
   },
   {
     "id": "europa-conference-league",
-    "name": "دوري المؤتمر الأوروبي",
-    "image": ""
+    "name": "دوري المؤتمر الأوروبي -",
+    "image": "https://jdwel.com/image/comp-logo/europa-conference-league.png"
   },
   {
     "id": "afc-cup",
-    "name": "دوري أبطال آسيا 2",
-    "image": ""
+    "name": "دوري أبطال آسيا 2 -",
+    "image": "https://jdwel.com/image/comp-logo/51.png"
   },
   {
     "id": "arab-club-championship",
-    "name": "البطولة العربية للأندية",
-    "image": ""
+    "name": "البطولة العربية للأندية -",
+    "image": "https://jdwel.com/image/comp-logo/arab-club-championship-v2.png"
   },
   {
     "id": "fa-community-shield",
-    "name": "درع الاتحاد الإنجليزي",
-    "image": ""
+    "name": "درع الاتحاد الإنجليزي -",
+    "image": "https://jdwel.com/image/comp-logo/fa-community-shield.png"
   },
   {
     "id": "fa-cup",
-    "name": "كأس الاتحاد الإنجليزي",
-    "image": ""
+    "name": "كأس الاتحاد الإنجليزي -",
+    "image": "https://jdwel.com/image/comp-logo/14.png"
   },
   {
     "id": "efl-cup",
-    "name": "كأس الرابطة الإنجليزية",
-    "image": ""
+    "name": "كأس الرابطة الإنجليزية للمحترفين",
+    "image": "https://jdwel.com/image/comp-logo/efl-cup-v2.png"
   },
   {
     "id": "copa-del-rey",
-    "name": "كأس ملك إسبانيا",
-    "image": ""
+    "name": "كأس ملك إسبانيا -",
+    "image": "https://jdwel.com/image/comp-logo/5.png"
   },
   {
     "id": "joan-gamper",
-    "name": "كأس خوان غامبر",
-    "image": ""
+    "name": "كأس خوان غامبر -",
+    "image": "https://jdwel.com/image/comp-logo/joan-gamper.png"
   },
   {
     "id": "club-world-cup",
-    "name": "كأس العالم للأندية",
-    "image": ""
+    "name": "كأس العالم للأندية -",
+    "image": "https://jdwel.com/image/comp-logo/74.png"
   },
   {
     "id": "fifa-intercontinental-cup",
-    "name": "كأس القارات للأندية",
-    "image": ""
+    "name": "كأس القارات للأندية إنتركونتيننتال",
+    "image": "https://jdwel.com/image/comp-logo/118.png"
   },
   {
     "id": "world-cup-u20",
-    "name": "كأس العالم للشباب",
-    "image": ""
+    "name": "كأس العالم للشباب تحت 20 سنة",
+    "image": "https://jdwel.com/image/comp-logo/75.png"
   },
   {
     "id": "uefa-nations-league",
-    "name": "دوري الأمم الأوروبية",
-    "image": ""
+    "name": "دوري الأمم الأوروبية -",
+    "image": "https://jdwel.com/image/comp-logo/uefa-nations-league-v2.png"
   },
   {
     "id": "euro-nations-cup",
-    "name": "كأس أمم أوروبا",
-    "image": ""
+    "name": "كأس أمم أوروبا يورو",
+    "image": "https://jdwel.com/image/comp-logo/28.png"
   },
   {
     "id": "confederations-cup",
-    "name": "كأس القارات",
-    "image": ""
+    "name": "كأس القارات -",
+    "image": "https://jdwel.com/image/comp-logo/confederations-cup-v1.png"
   },
   {
     "id": "copa-america",
-    "name": "كوبا أمريكا",
-    "image": ""
+    "name": "كوبا أمريكا -",
+    "image": "https://jdwel.com/image/comp-logo/18.png"
   },
   {
     "id": "conmebol-uefa",
-    "name": "كأس أوروبا أمريكا الجنوبية",
-    "image": ""
+    "name": "كأس أوروبا أمريكا الجنوبية فيناليسيما",
+    "image": "https://jdwel.com/image/comp-logo/finalissima.png"
   },
   {
     "id": "olympic-games",
-    "name": "أولمبياد كرة القدم",
-    "image": ""
+    "name": "أولمبياد كرة القدم رجال",
+    "image": "https://jdwel.com/image/comp-logo/olympics.png"
   },
   {
     "id": "afc-asian-cup",
-    "name": "كأس آسيا",
-    "image": ""
+    "name": "كأس آسيا -",
+    "image": "https://jdwel.com/image/comp-logo/asian-cup-2023.png"
   },
   {
     "id": "africa-cup-of-nations",
-    "name": "كأس أمم أفريقيا",
-    "image": ""
+    "name": "كأس أمم أفريقيا -",
+    "image": "https://jdwel.com/image/comp-logo/138.png"
   },
   {
     "id": "arab-cup",
-    "name": "كأس العرب",
-    "image": ""
+    "name": "كأس العرب -",
+    "image": "https://jdwel.com/image/comp-logo/148.png"
   },
   {
     "id": "arab-gulf-cup",
-    "name": "كأس الخليج",
-    "image": ""
+    "name": "كأس الخليج العربي",
+    "image": "https://jdwel.com/image/comp-logo/84.png"
   },
   {
     "id": "gulf-club-champions",
-    "name": "دوري أبطال الخليج",
-    "image": ""
+    "name": "دوري أبطال الخليج -",
+    "image": "https://jdwel.com/image/comp-logo/66.png"
   },
   {
     "id": "caf-champions-league",
-    "name": "دوري أبطال أفريقيا",
-    "image": ""
+    "name": "دوري أبطال أفريقيا -",
+    "image": "https://jdwel.com/image/comp-logo/155.png"
   },
   {
     "id": "caf-confederations-cup",
-    "name": "كأس الكونفدرالية",
-    "image": ""
+    "name": "كأس الكونفدرالية الأفريقية",
+    "image": "https://jdwel.com/image/comp-logo/156.png"
   },
   {
     "id": "caf-super-cup",
-    "name": "كأس السوبر الأفريقي",
-    "image": ""
+    "name": "كأس السوبر الأفريقي -",
+    "image": "https://jdwel.com/image/comp-logo/157.png"
   },
   {
     "id": "african-football-league",
-    "name": "دوري السوبر الأفريقي",
-    "image": ""
+    "name": "دوري السوبر الأفريقي -",
+    "image": "https://jdwel.com/image/comp-logo/caf-v2.png"
   },
   {
     "id": "egyptian-premier-league",
-    "name": "الدوري المصري",
-    "image": ""
+    "name": "الدوري المصري الممتاز",
+    "image": "https://jdwel.com/image/comp-logo/92.png"
   },
   {
     "id": "egypt-cup",
-    "name": "كأس مصر",
-    "image": ""
+    "name": "كأس مصر -",
+    "image": "https://jdwel.com/image/comp-logo/egypt-cup.png"
   },
   {
     "id": "efa-cup",
-    "name": "كأس الرابطة المصرية",
-    "image": ""
+    "name": "كأس الرابطة المصرية -",
+    "image": "https://jdwel.com/image/comp-logo/1.png"
   },
   {
     "id": "egyptian-super-cup",
-    "name": "كأس السوبر المصري",
-    "image": ""
+    "name": "كأس السوبر المصري -",
+    "image": "https://jdwel.com/image/comp-logo/egyptian-association.png"
   },
   {
     "id": "moroccan-league-botola-pro",
-    "name": "الدوري المغربي",
-    "image": ""
+    "name": "الدوري المغربي البطولة الإحترافية",
+    "image": "https://jdwel.com/image/comp-logo/moroccan-league-v2.png"
   },
   {
     "id": "moroccan-throne-cup",
-    "name": "كأس العرش المغربي",
-    "image": ""
+    "name": "كأس العرش المغربي -",
+    "image": "https://jdwel.com/image/comp-logo/moroccan-throne-cup.png"
   },
   {
     "id": "moroccan-excellence-cup",
-    "name": "كأس التميز المغربي",
-    "image": ""
+    "name": "كأس التميز المغربي -",
+    "image": "https://jdwel.com/image/comp-logo/53.png"
   },
   {
     "id": "algerian-ligue-1",
-    "name": "الدوري الجزائري",
-    "image": ""
+    "name": "الدوري الجزائري الدرجة الأولى",
+    "image": "https://jdwel.com/image/comp-logo/143.png"
   },
   {
     "id": "algeria-cup",
-    "name": "كأس الجزائر",
-    "image": ""
+    "name": "كأس الجزائر -",
+    "image": "https://jdwel.com/image/comp-logo/112.png"
   },
   {
     "id": "algerian-super-cup",
-    "name": "كأس السوبر الجزائري",
-    "image": ""
+    "name": "كأس السوبر الجزائري -",
+    "image": "https://jdwel.com/image/comp-logo/150.png"
   },
   {
     "id": "tunisian-ligue-1",
-    "name": "الدوري التونسي",
-    "image": ""
+    "name": "الدوري التونسي الرابطة المحترفة الأولى",
+    "image": "https://jdwel.com/image/comp-logo/tunisian-ligue-1-v2.png"
   },
   {
     "id": "tunisian-cup",
-    "name": "كأس تونس",
-    "image": ""
+    "name": "كأس تونس -",
+    "image": "https://jdwel.com/image/comp-logo/164.png"
   },
   {
     "id": "tunisian-super-cup",
-    "name": "كأس السوبر التونسي",
-    "image": ""
+    "name": "كأس السوبر التونسي -",
+    "image": "https://jdwel.com/image/comp-logo/tunisian-super-cup.png"
   },
   {
     "id": "saudi-crown-prince-cup",
-    "name": "كأس ولي العهد السعودي",
-    "image": ""
+    "name": "كأس ولي العهد السعودي -",
+    "image": "https://jdwel.com/image/comp-logo/saudi-crown-prince.png"
   },
   {
     "id": "saudi-division-1",
-    "name": "دوري الدرجة الأولى السعودي",
-    "image": ""
+    "name": "دوري الدرجة الأولى السعودي يلو",
+    "image": "https://jdwel.com/image/comp-logo/fdl.png"
   },
   {
     "id": "saudi-reserve-league",
-    "name": "دوري الرديف السعودي",
-    "image": ""
+    "name": "دوري الرديف السعودي -",
+    "image": "https://jdwel.com/image/comp-logo/saudi-reserve-league.png"
   },
   {
     "id": "world-cup-qualification",
-    "name": "الملحق العالمي لكأس العالم",
-    "image": ""
+    "name": "الملحق العالمي لكأس العالم -",
+    "image": "https://jdwel.com/image/comp-logo/fifa-symbol.png"
   },
   {
     "id": "euro-qualification",
-    "name": "تصفيات أمم أوروبا",
-    "image": ""
+    "name": "تصفيات أمم أوروبا -",
+    "image": "https://jdwel.com/image/comp-logo/european-qualifiers-v2.png"
   },
   {
     "id": "world-cup-qualification-europe",
-    "name": "تصفيات كأس العالم أوروبا",
-    "image": ""
+    "name": "تصفيات كأس العالم أوروبا -",
+    "image": "https://jdwel.com/image/comp-logo/european-qualifiers-v2.png"
   },
   {
     "id": "world-cup-qualification-asia",
-    "name": "تصفيات كأس العالم آسيا",
-    "image": ""
+    "name": "تصفيات كأس العالم آسيا -",
+    "image": "https://jdwel.com/image/comp-logo/19.png"
   },
   {
     "id": "world-cup-qualification-africa",
-    "name": "تصفيات كأس العالم أفريقيا",
-    "image": ""
+    "name": "تصفيات كأس العالم أفريقيا -",
+    "image": "https://jdwel.com/image/comp-logo/caf-v2.png"
   },
   {
     "id": "world-cup-qualification-south-america",
-    "name": "تصفيات كأس العالم أمريكا الجنوبية",
-    "image": ""
+    "name": "تصفيات كأس العالم أمريكا الجنوبية -",
+    "image": "https://jdwel.com/image/comp-logo/71.png"
   },
   {
     "id": "africa-cup-of-nations-qualifications",
-    "name": "تصفيات أمم أفريقيا",
-    "image": ""
+    "name": "تصفيات أمم أفريقيا -",
+    "image": "https://jdwel.com/image/comp-logo/caf-v2.png"
   },
   {
     "id": "asian-cup-qualification",
-    "name": "تصفيات كأس آسيا",
-    "image": ""
+    "name": "تصفيات كأس آسيا -",
+    "image": "https://jdwel.com/image/comp-logo/afc.png"
   },
   {
     "id": "saudi-egyptian-cup",
-    "name": "كأس السوبر السعودي المصري",
-    "image": ""
+    "name": "كأس السوبر السعودي المصري -",
+    "image": "https://jdwel.com/image/comp-logo/lusail-super-cup.png"
   },
   {
     "id": "concacaf-gold-cup",
-    "name": "كأس الكونكاكاف الذهبية",
-    "image": ""
+    "name": "كأس الكونكاكاف الذهبية -",
+    "image": "https://jdwel.com/image/comp-logo/concacaf-gold-cup.png"
   },
   {
     "id": "world-cup-women",
-    "name": "كأس العالم للسيدات",
-    "image": ""
+    "name": "كأس العالم للسيدات -",
+    "image": "https://jdwel.com/image/comp-logo/78.png"
   },
   {
     "id": "women-olympic-games",
-    "name": "أولمبياد كرة القدم للسيدات",
-    "image": ""
+    "name": "أولمبياد كرة القدم للسيدات -",
+    "image": "https://jdwel.com/image/comp-logo/olympics.png"
   },
   {
     "id": "women-euro",
-    "name": "بطولة أمم أوروبا للسيدات",
-    "image": ""
+    "name": "بطولة أمم أوروبا للسيدات -",
+    "image": "https://jdwel.com/image/comp-logo/123.png"
   },
   {
     "id": "copa-america-women",
-    "name": "كوبا أمريكا للسيدات",
-    "image": ""
+    "name": "كوبا أمريكا للسيدات -",
+    "image": "https://jdwel.com/image/comp-logo/copa-america-women.png"
   },
   {
     "id": "african-championship-women",
-    "name": "كأس أمم أفريقيا للسيدات",
-    "image": ""
+    "name": "كأس أمم أفريقيا للسيدات -",
+    "image": "https://jdwel.com/image/comp-logo/168.png"
   },
   {
     "id": "euro-u21",
-    "name": "بطولة أوروبا تحت 21 سنة",
-    "image": ""
+    "name": "بطولة أوروبا تحت 21 سنة -",
+    "image": "https://jdwel.com/image/comp-logo/euro-u21.png"
   },
   {
     "id": "uefa-championship-u17",
-    "name": "بطولة أوروبا تحت 17 سنة",
-    "image": ""
+    "name": "بطولة أوروبا تحت 17 سنة -",
+    "image": "https://jdwel.com/image/comp-logo/41.png"
   },
   {
     "id": "afc-championship-u23",
-    "name": "كأس آسيا تحت 23 سنة",
-    "image": ""
+    "name": "كأس آسيا تحت 23 سنة -",
+    "image": "https://jdwel.com/image/comp-logo/afc.png"
   },
   {
     "id": "west-asia",
-    "name": "بطولة غرب آسيا",
-    "image": ""
+    "name": "بطولة غرب آسيا -",
+    "image": "https://jdwel.com/image/comp-logo/69.png"
   },
   {
     "id": "west-asia-u23",
-    "name": "بطولة غرب آسيا تحت 23 سنة",
-    "image": ""
+    "name": "بطولة غرب آسيا تحت 23 سنة -",
+    "image": "https://jdwel.com/image/comp-logo/69.png"
   },
   {
     "id": "asian-cup-u20",
-    "name": "كأس آسيا للشباب",
-    "image": ""
+    "name": "كأس آسيا للشباب تحت 20 سنة",
+    "image": "https://jdwel.com/image/comp-logo/170.png"
   },
   {
     "id": "africa-cup-of-nations-u23",
-    "name": "كأس أمم أفريقيا تحت 23 سنة",
-    "image": ""
+    "name": "كأس أمم أفريقيا تحت 23 سنة الأولومبي",
+    "image": "https://jdwel.com/image/comp-logo/46.png"
   },
   {
     "id": "africa-cup-of-nations-u17",
-    "name": "كأس أمم أفريقيا للناشئين",
-    "image": ""
+    "name": "كأس أمم أفريقيا للناشئين تحت 17 سنة",
+    "image": "https://jdwel.com/image/comp-logo/167.png"
   },
   {
     "id": "africa-nations-u20",
-    "name": "كأس أمم أفريقيا للشباب",
-    "image": ""
+    "name": "كأس أمم أفريقيا للشباب تحت 20 سنة",
+    "image": "https://jdwel.com/image/comp-logo/166.png"
   },
   {
     "id": "african-nations-championship",
-    "name": "بطولة أمم أفريقيا للمحليين",
-    "image": ""
+    "name": "بطولة أمم أفريقيا للمحليين -",
+    "image": "https://jdwel.com/image/comp-logo/african-nations-championship.png"
   },
   {
     "id": "arab-cup-u20",
-    "name": "كأس العرب للشباب",
-    "image": ""
+    "name": "كأس العرب للشباب تحت 20 سنة",
+    "image": "https://jdwel.com/image/comp-logo/arab-club-championship-v2.png"
   },
   {
     "id": "world-cup-u17",
-    "name": "كأس العالم للناشئين",
-    "image": ""
+    "name": "كأس العالم للناشئين تحت 17 سنة",
+    "image": "https://jdwel.com/image/comp-logo/141.png"
   },
   {
     "id": "afc-asian-cup-u17",
-    "name": "كأس آسيا للناشئين",
-    "image": ""
+    "name": "كأس آسيا للناشئين تحت 17 سنة",
+    "image": "https://jdwel.com/image/comp-logo/afc.png"
   },
   {
     "id": "pan-arab-games",
-    "name": "الألعاب العربية",
-    "image": ""
+    "name": "الألعاب العربية -",
+    "image": "https://jdwel.com/image/comp-logo/uafa.png"
   },
   {
     "id": "arab-cup-u17",
-    "name": "كأس العرب للناشئين",
-    "image": ""
+    "name": "كأس العرب للناشئين تحت 17 سنة",
+    "image": "https://jdwel.com/image/comp-logo/169.png"
   },
   {
     "id": "eredivisie",
-    "name": "الدوري الهولندي",
-    "image": ""
+    "name": "الدوري الهولندي الممتاز",
+    "image": "https://jdwel.com/image/comp-logo/160.png"
   },
   {
     "id": "dutch-super-cup",
-    "name": "كأس السوبر الهولندي",
-    "image": ""
+    "name": "كأس السوبر الهولندي درع يوهان كرويف",
+    "image": "https://jdwel.com/image/comp-logo/dutch-super-cup.png"
   },
   {
     "id": "portugal-primeira-liga",
-    "name": "الدوري البرتغالي",
-    "image": ""
+    "name": "الدوري البرتغالي الممتاز",
+    "image": "https://jdwel.com/image/comp-logo/49.png"
   },
   {
     "id": "portuguese-super-cup",
-    "name": "كأس السوبر البرتغالي",
-    "image": ""
+    "name": "كأس السوبر البرتغالي -",
+    "image": "https://jdwel.com/image/comp-logo/portuguese-super.png"
   },
   {
     "id": "taca-da-liga",
-    "name": "كأس الدوري البرتغالي",
-    "image": ""
+    "name": "كأس الدوري البرتغالي الرابطة",
+    "image": "https://jdwel.com/image/comp-logo/taca-da-liga.png"
   },
   {
     "id": "efl-championship",
-    "name": "تشامبيونشيب",
-    "image": ""
+    "name": "تشامبيونشيب البطولة الإنجليزية",
+    "image": "https://jdwel.com/image/comp-logo/152.png"
   },
   {
     "id": "efl-trophy",
-    "name": "كأس رابطة الدوري الإنجليزي",
-    "image": ""
+    "name": "كأس رابطة الدوري الإنجليزي EFL",
+    "image": "https://jdwel.com/image/comp-logo/efl-cup-v2.png"
   },
   {
     "id": "league-one",
-    "name": "الدوري الإنجليزي الدرجة الثانية",
-    "image": ""
+    "name": "الدوري الإنجليزي الدرجة الثانية -",
+    "image": "https://jdwel.com/image/comp-logo/144.png"
   },
   {
     "id": "efl-league-two",
-    "name": "الدوري الإنجليزي الدرجة الثالثة",
-    "image": ""
+    "name": "الدوري الإنجليزي الدرجة الثالثة -",
+    "image": "https://jdwel.com/image/comp-logo/145.png"
   },
   {
     "id": "la-liga-2",
-    "name": "الدوري الإسباني الدرجة الثانية",
-    "image": ""
+    "name": "الدوري الإسباني الدرجة الثانية -",
+    "image": "https://jdwel.com/image/comp-logo/38.png"
   },
   {
     "id": "belgian-division-a",
-    "name": "الدوري البلجيكي",
-    "image": ""
+    "name": "الدوري البلجيكي الدرجة الأولى",
+    "image": "https://jdwel.com/image/comp-logo/104.png"
   },
   {
     "id": "belgian-super-cup",
-    "name": "كأس السوبر البلجيكي",
-    "image": ""
+    "name": "كأس السوبر البلجيكي -",
+    "image": "https://jdwel.com/image/comp-logo/belgian-super-cup.png"
   },
   {
     "id": "coppa-italia",
-    "name": "كأس إيطاليا",
-    "image": ""
+    "name": "كأس إيطاليا -",
+    "image": "https://jdwel.com/image/comp-logo/coppa-italia-v2.png"
   },
   {
     "id": "coupe-de-france",
-    "name": "كأس فرنسا",
-    "image": ""
+    "name": "كأس فرنسا -",
+    "image": "https://jdwel.com/image/comp-logo/113.png"
   },
   {
     "id": "coupe-de-la-ligue",
-    "name": "كأس الرابطة الفرنسية",
-    "image": ""
+    "name": "كأس الرابطة الفرنسية -",
+    "image": "https://jdwel.com/image/comp-logo/coupe-de-la-ligue.png"
   },
   {
     "id": "dfb-pokal",
-    "name": "كأس ألمانيا",
-    "image": ""
+    "name": "كأس ألمانيا -",
+    "image": "https://jdwel.com/image/comp-logo/96.png"
   },
   {
     "id": "taca-de-portugal",
-    "name": "كأس البرتغال",
-    "image": ""
+    "name": "كأس البرتغال -",
+    "image": "https://jdwel.com/image/comp-logo/taca-de-portugal.png"
   },
   {
     "id": "knvb-beker",
-    "name": "كأس هولندا",
-    "image": ""
+    "name": "كأس هولندا -",
+    "image": "https://jdwel.com/image/comp-logo/24.png"
   },
   {
     "id": "belgian-cup",
-    "name": "كأس بلجيكا",
-    "image": ""
+    "name": "كأس بلجيكا -",
+    "image": "https://jdwel.com/image/comp-logo/belgian-cup.png"
   },
   {
     "id": "uae-pro-league",
-    "name": "الدوري الإماراتي",
-    "image": ""
+    "name": "الدوري الإماراتي -",
+    "image": "https://jdwel.com/image/comp-logo/uae-gulf-league-v3.png"
   },
   {
     "id": "uae-super-cup",
-    "name": "كأس السوبر الإماراتي",
-    "image": ""
+    "name": "كأس السوبر الإماراتي -",
+    "image": "https://jdwel.com/image/comp-logo/uae-super-cup.png"
   },
   {
     "id": "arabian-gulf-cup-uae",
-    "name": "كأس مصرف أبو ظبي الإسلامي",
-    "image": ""
+    "name": "كأس مصرف أبو ظبي الإسلامي -",
+    "image": "https://jdwel.com/image/comp-logo/54.png"
   },
   {
     "id": "uae-presidents-cup",
-    "name": "كأس رئيس الدولة الإماراتي",
-    "image": ""
+    "name": "كأس رئيس الدولة الإماراتي -",
+    "image": "https://jdwel.com/image/comp-logo/158.png"
   },
   {
     "id": "qatari-league",
-    "name": "الدوري القطري",
-    "image": ""
+    "name": "الدوري القطري نجوم قطر",
+    "image": "https://jdwel.com/image/comp-logo/130.png"
   },
   {
     "id": "qatar-cup",
-    "name": "كأس قطر",
-    "image": ""
+    "name": "كأس قطر -",
+    "image": "https://jdwel.com/image/comp-logo/103.png"
   },
   {
     "id": "qsl-cup",
-    "name": "كأس QSL القطرية",
-    "image": ""
+    "name": "كأس QSL القطرية -",
+    "image": "https://jdwel.com/image/comp-logo/qsl-cup.png"
   },
   {
     "id": "qatar-emir-cup",
-    "name": "كأس الأمير قطر",
-    "image": ""
+    "name": "كأس الأمير قطر -",
+    "image": "https://jdwel.com/image/comp-logo/108.png"
   },
   {
     "id": "qfa-cup",
-    "name": "كأس الاتحاد القطري",
-    "image": ""
+    "name": "كأس الاتحاد القطري -",
+    "image": "https://jdwel.com/image/comp-logo/qfa.png"
   },
   {
     "id": "qatar-uae-super-cup",
-    "name": "كأس السوبر القطري الإماراتي",
-    "image": ""
+    "name": "كأس السوبر القطري الإماراتي -",
+    "image": "https://jdwel.com/image/comp-logo/13.png"
   },
   {
     "id": "qatar-uae-super-shield",
-    "name": "درع السوبر الإماراتي القطري",
-    "image": ""
+    "name": "درع السوبر الإماراتي القطري -",
+    "image": "https://jdwel.com/image/comp-logo/15.png"
   },
   {
     "id": "qatar-uae-challenge-cup",
-    "name": "كأس التحدي القطري الإماراتي",
-    "image": ""
+    "name": "كأس التحدي القطري الإماراتي -",
+    "image": "https://jdwel.com/image/comp-logo/86.png"
   },
   {
     "id": "qatar-uae-challenge-shield",
-    "name": "درع التحدي القطري الإماراتي",
-    "image": ""
+    "name": "درع التحدي القطري الإماراتي -",
+    "image": "https://jdwel.com/image/comp-logo/85.png"
   },
   {
     "id": "jordanian-pro-league",
-    "name": "الدوري الأردني",
-    "image": ""
+    "name": "الدوري الأردني للمحترفين",
+    "image": "https://jdwel.com/image/comp-logo/jordanian-pro-league-v2.png"
   },
   {
     "id": "jordan-super-cup",
-    "name": "كأس السوبر الأردني",
-    "image": ""
+    "name": "كأس السوبر الأردني -",
+    "image": "https://jdwel.com/image/comp-logo/116.png"
   },
   {
     "id": "jordan-shield-cup",
-    "name": "درع الاتحاد الأردني",
-    "image": ""
+    "name": "درع الاتحاد الأردني -",
+    "image": "https://jdwel.com/image/comp-logo/jordan-shield-cup.png"
   },
   {
     "id": "jordan-cup",
-    "name": "كأس الأردن",
-    "image": ""
+    "name": "كأس الأردن -",
+    "image": "https://jdwel.com/image/comp-logo/159.png"
   },
   {
     "id": "iraqi-premier-league",
-    "name": "الدوري العراقي",
-    "image": ""
+    "name": "الدوري العراقي نجوم",
+    "image": "https://jdwel.com/image/comp-logo/162.png"
   },
   {
     "id": "iraq-cup",
-    "name": "كأس العراق",
-    "image": ""
+    "name": "كأس العراق -",
+    "image": "https://jdwel.com/image/comp-logo/124.png"
   },
   {
     "id": "iraqi-super-cup",
-    "name": "كأس السوبر العراقي",
-    "image": ""
+    "name": "كأس السوبر العراقي -",
+    "image": "https://jdwel.com/image/comp-logo/128.png"
   },
   {
     "id": "kuwaiti-premier-league",
-    "name": "الدوري الكويتي",
-    "image": ""
+    "name": "الدوري الكويتي الممتاز",
+    "image": "https://jdwel.com/image/comp-logo/95.png"
   },
   {
     "id": "kuwait-super-cup",
-    "name": "كأس السوبر الكويتي",
-    "image": ""
+    "name": "كأس السوبر الكويتي -",
+    "image": "https://jdwel.com/image/comp-logo/175.png"
   },
   {
     "id": "kuwait-crown-prince",
-    "name": "كأس ولي العهد الكويتي",
-    "image": ""
+    "name": "كأس ولي العهد الكويتي -",
+    "image": "https://jdwel.com/image/comp-logo/174.png"
   },
   {
     "id": "kuwait-emir-cup",
-    "name": "كأس الأمير الكويتي",
-    "image": ""
+    "name": "كأس الأمير الكويتي -",
+    "image": "https://jdwel.com/image/comp-logo/173.png"
   },
   {
     "id": "kuwait-federation-cup",
-    "name": "كأس الاتحاد الكويتي",
-    "image": ""
+    "name": "كأس الاتحاد الكويتي -",
+    "image": "https://jdwel.com/image/comp-logo/kuwait-federation-cup.png"
   },
   {
     "id": "kuwait-ranking-league",
-    "name": "دوري التصنيف الكويتي",
-    "image": ""
+    "name": "دوري التصنيف الكويتي -",
+    "image": "https://jdwel.com/image/comp-logo/119.png"
   },
   {
     "id": "oman-professional-league",
-    "name": "الدوري العماني",
-    "image": ""
+    "name": "الدوري العماني -",
+    "image": "https://jdwel.com/image/comp-logo/oman-professional-league.png"
   },
   {
     "id": "sultan-cup-oman",
-    "name": "كأس السلطان العماني",
-    "image": ""
+    "name": "كأس السلطان العماني -",
+    "image": "https://jdwel.com/image/comp-logo/sultan-qaboos-cup.png"
   },
   {
     "id": "oman-super-cup",
-    "name": "كأس السوبر العماني",
-    "image": ""
+    "name": "كأس السوبر العماني -",
+    "image": "https://jdwel.com/image/comp-logo/oman-professional-league.png"
   },
   {
     "id": "oman-first-division-league",
-    "name": "الدوري العماني الدرجة الأولى",
-    "image": ""
+    "name": "الدوري العماني الدرجة الأولى -",
+    "image": "https://jdwel.com/image/comp-logo/oman-professional-league.png"
   },
   {
     "id": "bahraini-premier-league",
-    "name": "الدوري البحريني",
-    "image": ""
+    "name": "الدوري البحريني الممتاز",
+    "image": "https://jdwel.com/image/comp-logo/nasser-bin-hamad-league.png"
   },
   {
     "id": "bahrain-kings-cup",
-    "name": "كأس ملك البحرين",
-    "image": ""
+    "name": "كأس ملك البحرين -",
+    "image": "https://jdwel.com/image/comp-logo/bahrain-cup.png"
   },
   {
     "id": "bahrain-super-cup",
-    "name": "كأس السوبر البحريني",
-    "image": ""
+    "name": "كأس السوبر البحريني -",
+    "image": "https://jdwel.com/image/comp-logo/bahrain-super-cup.png"
   },
   {
     "id": "syrian-premier-league",
-    "name": "الدوري السوري",
-    "image": ""
+    "name": "الدوري السوري الممتاز",
+    "image": "https://jdwel.com/image/comp-logo/114.png"
   },
   {
     "id": "libyan-premier-league",
-    "name": "الدوري الليبي",
-    "image": ""
+    "name": "الدوري الليبي الممتاز",
+    "image": "https://jdwel.com/image/comp-logo/16.png"
   },
   {
     "id": "libyan-cup",
-    "name": "كأس ليبيا",
-    "image": ""
+    "name": "كأس ليبيا -",
+    "image": "https://jdwel.com/image/comp-logo/147.png"
   },
   {
     "id": "libyan-super-cup",
-    "name": "كأس السوبر الليبي",
-    "image": ""
+    "name": "كأس السوبر الليبي -",
+    "image": "https://jdwel.com/image/comp-logo/147.png"
   },
   {
     "id": "palestinian-premier-league",
-    "name": "الدوري الفلسطيني",
-    "image": ""
+    "name": "الدوري الفلسطيني للمحترفين",
+    "image": "https://jdwel.com/image/comp-logo/palestinian-ff.png"
   },
   {
     "id": "lebanon-premier-league",
-    "name": "الدوري اللبناني",
-    "image": ""
+    "name": "الدوري اللبناني الممتاز",
+    "image": "https://jdwel.com/image/comp-logo/26.png"
   },
   {
     "id": "sudan-premier-league",
-    "name": "الدوري السوداني",
-    "image": ""
+    "name": "الدوري السوداني الممتاز",
+    "image": "https://jdwel.com/image/comp-logo/sudan-premier-league.png"
   },
   {
     "id": "afc-challenge-league",
-    "name": "دوري التحدي الآسيوي",
-    "image": ""
+    "name": "دوري التحدي الآسيوي -",
+    "image": "https://jdwel.com/image/comp-logo/55.png"
   },
   {
     "id": "turkish-super-lig",
-    "name": "الدوري التركي",
-    "image": ""
+    "name": "الدوري التركي الممتاز",
+    "image": "https://jdwel.com/image/comp-logo/56.png"
   },
   {
     "id": "turkish-cup",
-    "name": "كأس تركيا",
-    "image": ""
+    "name": "كأس تركيا -",
+    "image": "https://jdwel.com/image/comp-logo/turkish-cup.png"
   },
   {
     "id": "turkish-super-cup",
-    "name": "كأس السوبر التركي",
-    "image": ""
+    "name": "كأس السوبر التركي -",
+    "image": "https://jdwel.com/image/comp-logo/turkish-super-cup.png"
   },
   {
     "id": "russian-premier-league",
-    "name": "الدوري الروسي",
-    "image": ""
+    "name": "الدوري الروسي الممتاز",
+    "image": "https://jdwel.com/image/comp-logo/russian-premier-league.png"
   },
   {
     "id": "russian-super-cup",
-    "name": "كأس السوبر الروسي",
-    "image": ""
+    "name": "كأس السوبر الروسي -",
+    "image": "https://jdwel.com/image/comp-logo/russian-super-cup.png"
   },
   {
     "id": "russian-cup",
-    "name": "كأس روسيا",
-    "image": ""
+    "name": "كأس روسيا -",
+    "image": "https://jdwel.com/image/comp-logo/russian-cup.png"
   },
   {
     "id": "scottish",
-    "name": "الدوري الإسكتلندي",
-    "image": ""
+    "name": "الدوري الإسكتلندي للمحترفين",
+    "image": "https://jdwel.com/image/comp-logo/premiership.png"
   },
   {
     "id": "scottish-cup",
-    "name": "كأس إسكتلندا",
-    "image": ""
+    "name": "كأس إسكتلندا -",
+    "image": "https://jdwel.com/image/comp-logo/scottish-cup.png"
   },
   {
     "id": "scottish-league-cup",
-    "name": "كأس الدوري الإسكتلندي",
-    "image": ""
+    "name": "كأس الدوري الإسكتلندي -",
+    "image": "https://jdwel.com/image/comp-logo/82.png"
   },
   {
     "id": "chinese-super-league",
-    "name": "الدوري الصيني",
-    "image": ""
+    "name": "الدوري الصيني سوبر",
+    "image": "https://jdwel.com/image/comp-logo/chinese-super-league-v2.png"
   },
   {
     "id": "swiss-super-league",
-    "name": "الدوري السويسري",
-    "image": ""
+    "name": "الدوري السويسري الممتاز",
+    "image": "https://jdwel.com/image/comp-logo/23.png"
   },
   {
     "id": "danish-superliga",
-    "name": "الدوري الدنماركي",
-    "image": ""
+    "name": "الدوري الدنماركي السوبر",
+    "image": "https://jdwel.com/image/comp-logo/danish-superliga.png"
   },
   {
     "id": "super-league-greece",
-    "name": "الدوري اليوناني",
-    "image": ""
+    "name": "الدوري اليوناني السوبر",
+    "image": "https://jdwel.com/image/comp-logo/165.png"
   },
   {
     "id": "greek-cup",
-    "name": "كأس اليونان",
-    "image": ""
+    "name": "كأس اليونان -",
+    "image": "https://jdwel.com/image/comp-logo/greek-cup.png"
   },
   {
     "id": "allsvenskan",
-    "name": "الدوري السويدي الممتاز",
-    "image": ""
+    "name": "الدوري السويدي الممتاز -",
+    "image": "https://jdwel.com/image/comp-logo/90.png"
   },
   {
     "id": "persian-pro-league",
-    "name": "الدوري الإيراني",
-    "image": ""
+    "name": "الدوري الإيراني للمحترفين",
+    "image": "https://jdwel.com/image/comp-logo/persian-pro-league.png"
   },
   {
     "id": "iranian-hazfi-cup",
-    "name": "كأس إيران",
-    "image": ""
+    "name": "كأس إيران حذفي",
+    "image": "https://jdwel.com/image/comp-logo/hazfi-cup.png"
   },
   {
     "id": "cafa-nations-cup",
-    "name": "بطولة اتحاد وسط آسيا",
-    "image": ""
+    "name": "بطولة اتحاد وسط آسيا -",
+    "image": "https://jdwel.com/image/comp-logo/cafa-cup-2023.png"
   },
   {
     "id": "saff-championship",
-    "name": "بطولة اتحاد جنوب آسيا",
-    "image": ""
+    "name": "بطولة اتحاد جنوب آسيا -",
+    "image": "https://jdwel.com/image/comp-logo/saff-championship.png"
   },
   {
     "id": "copa-libertadores",
-    "name": "كوبا ليبرتادوريس",
-    "image": ""
+    "name": "كوبا ليبرتادوريس -",
+    "image": "https://jdwel.com/image/comp-logo/copa-libertadores-v2.png"
   },
   {
     "id": "copa-sudamericana",
-    "name": "كوبا سود أمريكانا",
-    "image": ""
+    "name": "كوبا سود أمريكانا -",
+    "image": "https://jdwel.com/image/comp-logo/copa-sudamericana.png"
   },
   {
     "id": "recopa-sudamericana",
-    "name": "ريكوبا سود أمريكانا",
-    "image": ""
+    "name": "ريكوبا سود أمريكانا -",
+    "image": "https://jdwel.com/image/comp-logo/recopa.png"
   },
   {
     "id": "brasileiro-serie-a",
-    "name": "الدوري البرازيلي",
-    "image": ""
+    "name": "الدوري البرازيلي الدرجة الأولى",
+    "image": "https://jdwel.com/image/comp-logo/88.png"
   },
   {
     "id": "supercopa-do-brasil",
-    "name": "كأس السوبر البرازيلي",
-    "image": ""
+    "name": "كأس السوبر البرازيلي -",
+    "image": "https://jdwel.com/image/comp-logo/supercopa-do-brasil.png"
   },
   {
     "id": "copa-do-brasil",
-    "name": "كأس البرازيل",
-    "image": ""
+    "name": "كأس البرازيل -",
+    "image": "https://jdwel.com/image/comp-logo/copa-do-brasil.png"
   },
   {
     "id": "campeonato-paulista",
-    "name": "بطولة باوليستا",
-    "image": ""
+    "name": "بطولة باوليستا البرازيل",
+    "image": "https://jdwel.com/image/comp-logo/campeonato-paulista.png"
   },
   {
     "id": "major-league-soccer",
-    "name": "الدوري الأمريكي",
-    "image": ""
+    "name": "الدوري الأمريكي MLS",
+    "image": "https://jdwel.com/image/comp-logo/109.png"
   },
   {
     "id": "us-open-cup",
-    "name": "كأس الولايات المتحدة المفتوحة",
-    "image": ""
+    "name": "كأس الولايات المتحدة المفتوحة -",
+    "image": "https://jdwel.com/image/comp-logo/us-open-cup.png"
   },
   {
     "id": "leagues-cup",
-    "name": "كأس الدوريات",
-    "image": ""
+    "name": "كأس الدوريات -",
+    "image": "https://jdwel.com/image/comp-logo/leagues-cup.png"
   },
   {
     "id": "concacaf-champions-league",
-    "name": "كأس أبطال الكونكاكاف",
-    "image": ""
+    "name": "كأس أبطال الكونكاكاف -",
+    "image": "https://jdwel.com/image/comp-logo/concacaf-champions%20.png"
   },
   {
     "id": "superliga-argentina",
-    "name": "الدوري الأرجنتيني",
-    "image": ""
+    "name": "الدوري الأرجنتيني الممتاز",
+    "image": "https://jdwel.com/image/comp-logo/4.png"
   },
   {
     "id": "copa-de-la-superliga",
-    "name": "كأس رابطة الدوري الارجنتيني",
-    "image": ""
+    "name": "كأس رابطة الدوري الارجنتيني -",
+    "image": "https://jdwel.com/image/comp-logo/3.png"
   },
   {
     "id": "supercopa-argentina",
-    "name": "كأس السوبر الأرجنتيني",
-    "image": ""
+    "name": "كأس السوبر الأرجنتيني -",
+    "image": "https://jdwel.com/image/comp-logo/supercopa-argentina.png"
   },
   {
     "id": "copa-argentina",
-    "name": "كأس الأرجنتين",
-    "image": ""
+    "name": "كأس الأرجنتين -",
+    "image": "https://jdwel.com/image/comp-logo/139.png"
   },
   {
     "id": "trofeo-de-campeones",
-    "name": "كأس أبطال الدوري الأرجنتيني",
-    "image": ""
+    "name": "كأس أبطال الدوري الأرجنتيني -",
+    "image": "https://jdwel.com/image/comp-logo/151.png"
   },
   {
     "id": "mexican-league",
-    "name": "الدوري المكسيكي",
-    "image": ""
+    "name": "الدوري المكسيكي الممتاز",
+    "image": "https://jdwel.com/image/comp-logo/liga-mx.png"
   },
   {
     "id": "j-league",
-    "name": "الدوري الياباني",
-    "image": ""
+    "name": "الدوري الياباني الممتاز",
+    "image": "https://jdwel.com/image/comp-logo/j-league-v2.png"
   },
   {
     "id": "k-league",
-    "name": "الدوري الكوري الجنوبي",
-    "image": ""
+    "name": "الدوري الكوري الجنوبي -",
+    "image": "https://jdwel.com/image/comp-logo/105.png"
   },
   {
     "id": "australian-a-league",
-    "name": "الدوري الأسترالي",
-    "image": ""
+    "name": "الدوري الأسترالي الدرجة A",
+    "image": "https://jdwel.com/image/comp-logo/63.png"
   },
   {
     "id": "south-african-premier",
-    "name": "دوري جنوب أفريقيا",
-    "image": ""
+    "name": "دوري جنوب أفريقيا -",
+    "image": "https://jdwel.com/image/comp-logo/south-african-premier.png"
   },
   {
     "id": "rwanda-premier-league",
-    "name": "الدوري الرواندي الممتاز",
-    "image": ""
+    "name": "الدوري الرواندي الممتاز -",
+    "image": "https://jdwel.com/image/comp-logo/171.png"
   },
   {
     "id": "world-cup-qualification-concacaf",
-    "name": "تصفيات كأس العالم أمريكا الشمالية",
-    "image": ""
+    "name": "تصفيات كأس العالم أمريكا الشمالية -",
+    "image": "https://jdwel.com/image/comp-logo/73.png"
   },
   {
     "id": "world-cup-qualification-oceania",
-    "name": "تصفيات كأس العالم أوقيانوسيا",
-    "image": ""
+    "name": "تصفيات كأس العالم أوقيانوسيا -",
+    "image": "https://jdwel.com/image/comp-logo/70.png"
   },
   {
     "id": "concacaf-nations-league",
-    "name": "دوري أمم الكونكاكاف",
-    "image": ""
+    "name": "دوري أمم الكونكاكاف -",
+    "image": "https://jdwel.com/image/comp-logo/10.png"
   },
   {
     "id": "malaysia-super-league",
-    "name": "دوري السوبر الماليزي",
-    "image": ""
+    "name": "دوري السوبر الماليزي -",
+    "image": "https://jdwel.com/image/comp-logo/malaysia-super-league.png"
   },
   {
     "id": "saudi-league-division-2",
-    "name": "دوري الدرجة الثانية السعودي",
-    "image": ""
+    "name": "دوري الدرجة الثانية السعودي -",
+    "image": "https://jdwel.com/image/comp-logo/saudi-sdl.png"
   },
   {
     "id": "saudi-women-league",
-    "name": "الدوري السعودي للسيدات",
-    "image": ""
+    "name": "الدوري السعودي للسيدات الممتاز",
+    "image": "https://jdwel.com/image/comp-logo/131.png"
   },
   {
     "id": "saff-women-cup",
-    "name": "كأس الاتحاد السعودي للسيدات",
-    "image": ""
+    "name": "كأس الاتحاد السعودي للسيدات -",
+    "image": "https://jdwel.com/image/comp-logo/126.png"
   },
   {
     "id": "saudi-women-super",
-    "name": "كأس السوبر السعودي للسيدات",
-    "image": ""
+    "name": "كأس السوبر السعودي للسيدات -",
+    "image": "https://jdwel.com/image/comp-logo/127.png"
   },
   {
     "id": "saudi-league-u21",
-    "name": "دوري جوي للنخبة السعودي تحت 21",
-    "image": ""
+    "name": "دوري جوي للنخبة السعودي تحت 21 -",
+    "image": "https://jdwel.com/image/comp-logo/136.png"
   },
   {
     "id": "saudi-youth-league",
-    "name": "الدوري السعودي للشباب",
-    "image": ""
+    "name": "الدوري السعودي للشباب تحت 18 سنة",
+    "image": "https://jdwel.com/image/comp-logo/saudi-saff.png"
   },
   {
     "id": "saudi-league-u17",
-    "name": "الدوري السعودي للناشئين",
-    "image": ""
+    "name": "الدوري السعودي للناشئين تحت 17 سنة",
+    "image": "https://jdwel.com/image/comp-logo/saudi-saff.png"
   },
   {
     "id": "italian-serie-b",
-    "name": "الدوري الإيطالي الدرجة الثانية",
-    "image": ""
+    "name": "الدوري الإيطالي الدرجة الثانية الدرجة B",
+    "image": "https://jdwel.com/image/comp-logo/serie-b.png"
   },
   {
     "id": "france-ligue-2",
-    "name": "الدوري الفرنسي الدرجة الثانية",
-    "image": ""
+    "name": "الدوري الفرنسي الدرجة الثانية -",
+    "image": "https://jdwel.com/image/comp-logo/48.png"
   },
   {
     "id": "2-bundesliga",
-    "name": "الدوري الألماني الدرجة الثانية",
-    "image": ""
+    "name": "الدوري الألماني الدرجة الثانية -",
+    "image": "https://jdwel.com/image/comp-logo/bundesliga-2.png"
   },
   {
     "id": "africa-u23-cup-of-nations-qualification",
-    "name": "تصفيات أمم أفريقيا تحت 23 سنة",
-    "image": ""
+    "name": "تصفيات أمم أفريقيا تحت 23 سنة الأولومبي",
+    "image": "https://jdwel.com/image/comp-logo/caf-v2.png"
   },
   {
     "id": "asian-games",
-    "name": "دورة الألعاب الآسيوية",
-    "image": ""
+    "name": "دورة الألعاب الآسيوية كرة قدم",
+    "image": "https://jdwel.com/image/comp-logo/asian-games.png"
   },
   {
     "id": "afc-u23-qualification",
-    "name": "تصفيات كأس آسيا تحت 23 سنة",
-    "image": ""
+    "name": "تصفيات كأس آسيا تحت 23 سنة -",
+    "image": "https://jdwel.com/image/comp-logo/afc.png"
   },
   {
     "id": "asian-cup-qualification-u20",
-    "name": "تصفيات كأس آسيا للشباب",
-    "image": ""
+    "name": "تصفيات كأس آسيا للشباب تحت 20 سنة",
+    "image": "https://jdwel.com/image/comp-logo/afc.png"
   },
   {
     "id": "afc-u17-qualification",
-    "name": "تصفيات كأس آسيا للناشئين",
-    "image": ""
+    "name": "تصفيات كأس آسيا للناشئين تحت 17 سنة",
+    "image": "https://jdwel.com/image/comp-logo/afc.png"
   },
   {
     "id": "west-asia-championship-u19",
-    "name": "بطولة غرب آسيا للشباب",
-    "image": ""
+    "name": "بطولة غرب آسيا للشباب تحت 19 سنة",
+    "image": "https://jdwel.com/image/comp-logo/45.png"
   },
   {
     "id": "west-asia-championship-u17",
-    "name": "بطولة غرب آسيا للناشئين",
-    "image": ""
+    "name": "بطولة غرب آسيا للناشئين تحت 17 سنة",
+    "image": "https://jdwel.com/image/comp-logo/69.png"
   },
   {
     "id": "european-u%e2%80%9119",
-    "name": "بطولة أوروبا تحت 19 سنة",
-    "image": ""
+    "name": "بطولة أوروبا تحت 19 سنة -",
+    "image": "https://jdwel.com/image/comp-logo/81.png"
   },
   {
     "id": "uefa-youth-league",
-    "name": "دوري أبطال أوروبا للشباب",
-    "image": ""
+    "name": "دوري أبطال أوروبا للشباب -",
+    "image": "https://jdwel.com/image/comp-logo/uefa-youth-league.png"
   },
   {
     "id": "gulf-cup-u23",
-    "name": "كأس الخليج تحت 23 سنة",
-    "image": ""
+    "name": "كأس الخليج تحت 23 سنة -",
+    "image": "https://jdwel.com/image/comp-logo/140.png"
   },
   {
     "id": "gulf-cup-u20",
-    "name": "كأس الخليج للشباب",
-    "image": ""
+    "name": "كأس الخليج للشباب تحت 20 سنة",
+    "image": "https://jdwel.com/image/comp-logo/129.png"
   },
   {
     "id": "gulf-cup-u17",
-    "name": "كأس الخليج للناشئين",
-    "image": ""
+    "name": "كأس الخليج للناشئين تحت 17 سنة",
+    "image": "https://jdwel.com/image/comp-logo/132.png"
   },
   {
     "id": "maurice-revello-tournament",
-    "name": "دورة تولون الدولية",
-    "image": ""
+    "name": "دورة تولون الدولية -",
+    "image": "https://jdwel.com/image/comp-logo/maurice-revello.png"
   },
   {
     "id": "mediterranean-games",
-    "name": "دورة ألعاب البحر الأبيض المتوسط",
-    "image": ""
+    "name": "دورة ألعاب البحر الأبيض المتوسط -",
+    "image": "https://jdwel.com/image/comp-logo/fifa-symbol.png"
   },
   {
     "id": "egyptian-division-a",
-    "name": "الدوري المصري الدرجة الثانية",
-    "image": ""
+    "name": "الدوري المصري الدرجة الثانية (أ)",
+    "image": "https://jdwel.com/image/comp-logo/egyptian-association.png"
   },
   {
     "id": "mauritania-super-d1",
-    "name": "الدوري الموريتاني الممتاز",
-    "image": ""
+    "name": "الدوري الموريتاني الممتاز -",
+    "image": "https://jdwel.com/image/comp-logo/25.png"
   },
   {
     "id": "botola-2",
-    "name": "الدوري المغربي القسم الثاني",
-    "image": ""
+    "name": "الدوري المغربي القسم الثاني البطولة الإحترافية",
+    "image": "https://jdwel.com/image/comp-logo/moroccan-league-v2.png"
   },
   {
     "id": "ligue-2",
-    "name": "الدوري الجزائري القسم الثاني",
-    "image": ""
+    "name": "الدوري الجزائري القسم الثاني -",
+    "image": "https://jdwel.com/image/comp-logo/142.png"
   },
   {
     "id": "tunisian-ligue-2",
-    "name": "الدوري التونسي الدرجة الثانية",
-    "image": ""
+    "name": "الدوري التونسي الدرجة الثانية الرابطة المحترفة الثانية",
+    "image": "https://jdwel.com/image/comp-logo/tunisian-ligue-2.png"
   },
   {
     "id": "croatian-football-league",
-    "name": "الدوري الكرواتي الممتاز",
-    "image": ""
+    "name": "الدوري الكرواتي الممتاز -",
+    "image": "https://jdwel.com/image/comp-logo/106.png"
   },
   {
     "id": "hungarian-league",
-    "name": "الدوري المجري الممتاز",
-    "image": ""
+    "name": "الدوري المجري الممتاز -",
+    "image": "https://jdwel.com/image/comp-logo/89.png"
   },
   {
     "id": "serbian-league",
-    "name": "الدوري الصربي الممتاز",
-    "image": ""
+    "name": "الدوري الصربي الممتاز -",
+    "image": "https://jdwel.com/image/comp-logo/serbian_superliga.png"
   },
   {
     "id": "portuguesa-segunda",
-    "name": "الدوري البرتغالي الدرجة الثانية",
-    "image": ""
+    "name": "الدوري البرتغالي الدرجة الثانية -",
+    "image": "https://jdwel.com/image/comp-logo/100.png"
   },
   {
     "id": "eerste-divisie",
-    "name": "الدوري الهولندي الدرجة الأولى",
-    "image": ""
+    "name": "الدوري الهولندي الدرجة الأولى -",
+    "image": "https://jdwel.com/image/comp-logo/eerste-divisie-v1.png"
   },
   {
     "id": "eliteserien",
-    "name": "الدوري النرويجي",
-    "image": ""
+    "name": "الدوري النرويجي الممتاز",
+    "image": "https://jdwel.com/image/comp-logo/eliteserien.png"
   },
   {
     "id": "austrian-bundesliga",
-    "name": "الدوري النمساوي",
-    "image": ""
+    "name": "الدوري النمساوي الممتاز",
+    "image": "https://jdwel.com/image/comp-logo/austrian-bundesliga.png"
   },
   {
     "id": "ekstraklasa",
-    "name": "الدوري البولندي الممتاز",
-    "image": ""
+    "name": "الدوري البولندي الممتاز -",
+    "image": "https://jdwel.com/image/comp-logo/ekstraklasa.png"
   },
   {
     "id": "czech-first-league",
-    "name": "الدوري التشيكي الممتاز",
-    "image": ""
+    "name": "الدوري التشيكي الممتاز -",
+    "image": "https://jdwel.com/image/comp-logo/99.png"
   },
   {
     "id": "ukrainian-premier-league",
-    "name": "الدوري الأوكراني الممتاز",
-    "image": ""
+    "name": "الدوري الأوكراني الممتاز -",
+    "image": "https://jdwel.com/image/comp-logo/ukrainian-premier-league.png"
   },
   {
     "id": "romanian-league",
-    "name": "الدوري الروماني",
-    "image": ""
+    "name": "الدوري الروماني سوبر",
+    "image": "https://jdwel.com/image/comp-logo/91.png"
   },
   {
     "id": "slovenian-prvaliga",
-    "name": "الدوري السلوفيني",
-    "image": ""
+    "name": "الدوري السلوفيني الممتاز",
+    "image": "https://jdwel.com/image/comp-logo/31.png"
   },
   {
     "id": "bulgarian-league",
-    "name": "الدوري البلغاري",
-    "image": ""
+    "name": "الدوري البلغاري الأول",
+    "image": "https://jdwel.com/image/comp-logo/110.png"
   },
   {
     "id": "slovak-first-league",
-    "name": "الدوري السلوفاكي",
-    "image": ""
+    "name": "الدوري السلوفاكي الأول",
+    "image": "https://jdwel.com/image/comp-logo/107.png"
   },
   {
     "id": "albanian-superliga",
-    "name": "دوري السوبر الألباني",
-    "image": ""
+    "name": "دوري السوبر الألباني -",
+    "image": "https://jdwel.com/image/comp-logo/42.png"
   },
   {
     "id": "uzbekistan-super-league",
-    "name": "الدوري الأوزبكي",
-    "image": ""
+    "name": "الدوري الأوزبكي سوبر",
+    "image": "https://jdwel.com/image/comp-logo/27.png"
   },
   {
     "id": "indonesia-liga-1",
-    "name": "الدوري الإندونيسي",
-    "image": ""
+    "name": "الدوري الإندونيسي سوبر",
+    "image": "https://jdwel.com/image/comp-logo/44.png"
   },
   {
     "id": "thai-league-1",
-    "name": "الدوري التايلندي",
-    "image": ""
+    "name": "الدوري التايلندي -",
+    "image": "https://jdwel.com/image/comp-logo/32.png"
   },
   {
     "id": "vietnam-league",
-    "name": "الدوري الفيتنامي",
-    "image": ""
+    "name": "الدوري الفيتنامي -",
+    "image": "https://jdwel.com/image/comp-logo/33.png"
   },
   {
     "id": "bosnia-premier-liga",
-    "name": "دوري البوسنة والهرسك الممتاز",
-    "image": ""
+    "name": "دوري البوسنة والهرسك الممتاز -",
+    "image": "https://jdwel.com/image/comp-logo/52.png"
   },
   {
     "id": "veikkausliiga",
-    "name": "الدوري الفنلندي",
-    "image": ""
+    "name": "الدوري الفنلندي الممتاز",
+    "image": "https://jdwel.com/image/comp-logo/135.png"
   },
   {
     "id": "uruguayan-primera-division",
-    "name": "دوري الأوروغواي الممتاز",
-    "image": ""
+    "name": "دوري الأوروغواي الممتاز -",
+    "image": "https://jdwel.com/image/comp-logo/98.png"
   },
   {
     "id": "ofc-champions-league",
-    "name": "دوري أبطال أوقيانوسيا",
-    "image": ""
+    "name": "دوري أبطال أوقيانوسيا -",
+    "image": "https://jdwel.com/image/comp-logo/34.png"
   },
   {
     "id": "premier-summer-series",
-    "name": "سلسلة الدوري الإنجليزي الصيفية",
-    "image": ""
+    "name": "سلسلة الدوري الإنجليزي الصيفية -",
+    "image": "https://jdwel.com/image/comp-logo/83.png"
   },
   {
     "id": "emirates-cup",
-    "name": "كأس الإمارات",
-    "image": ""
+    "name": "كأس الإمارات -",
+    "image": "https://jdwel.com/image/comp-logo/emirates-cup.png"
   },
   {
     "id": "jleague-world-challenge",
-    "name": "تحدي العالم الدوري الياباني",
-    "image": ""
+    "name": "تحدي العالم الدوري الياباني -",
+    "image": "https://jdwel.com/image/comp-logo/125.png"
   },
   {
     "id": "dubai-challenge-cup",
-    "name": "كأس تحدي دبي",
-    "image": ""
+    "name": "كأس تحدي دبي -",
+    "image": "https://jdwel.com/image/comp-logo/9.png"
   },
   {
     "id": "florida-cup",
-    "name": "كأس فلوريدا",
-    "image": ""
+    "name": "كأس فلوريدا -",
+    "image": "https://jdwel.com/image/comp-logo/florida-cup.png"
   },
   {
     "id": "thailand-kings-cup",
-    "name": "كأس ملك تايلاند",
-    "image": ""
+    "name": "كأس ملك تايلاند الدولية",
+    "image": "https://jdwel.com/image/comp-logo/thailand-kings-cup.png"
   },
   {
     "id": "canadian-premier-league",
-    "name": "الدوري الكندي الممتاز",
-    "image": ""
+    "name": "الدوري الكندي الممتاز -",
+    "image": "https://jdwel.com/image/comp-logo/43.png"
   },
   {
     "id": "womens-champions-league",
-    "name": "دوري أبطال أوروبا للسيدات",
-    "image": ""
+    "name": "دوري أبطال أوروبا للسيدات -",
+    "image": "https://jdwel.com/image/comp-logo/35.png"
   },
   {
     "id": "liga-f",
-    "name": "الدوري الإسباني للسيدات",
-    "image": ""
+    "name": "الدوري الإسباني للسيدات -",
+    "image": "https://jdwel.com/image/comp-logo/6.png"
   },
   {
     "id": "supercopa-femenina",
-    "name": "كأس السوبر الإسباني للسيدات",
-    "image": ""
+    "name": "كأس السوبر الإسباني للسيدات -",
+    "image": "https://jdwel.com/image/comp-logo/87.png"
   },
   {
     "id": "copa-de-la-reina",
-    "name": "كأس ملكة إسبانيا للسيدات",
-    "image": ""
+    "name": "كأس ملكة إسبانيا للسيدات -",
+    "image": "https://jdwel.com/image/comp-logo/137.png"
   },
   {
     "id": "womens-super-league",
-    "name": "الدوري الإنجليزي للسيدات",
-    "image": ""
+    "name": "الدوري الإنجليزي للسيدات سوبر",
+    "image": "https://jdwel.com/image/comp-logo/8.png"
   },
   {
     "id": "nwsl",
-    "name": "الدوري الأمريكي للسيدات",
-    "image": ""
+    "name": "الدوري الأمريكي للسيدات NWSL",
+    "image": "https://jdwel.com/image/comp-logo/7.png"
   },
   {
     "id": "frauen-bundesliga",
-    "name": "الدوري الألماني للسيدات",
-    "image": ""
+    "name": "الدوري الألماني للسيدات -",
+    "image": "https://jdwel.com/image/comp-logo/59.png"
   },
   {
     "id": "french-women-league",
-    "name": "الدوري الفرنسي للسيدات",
-    "image": ""
+    "name": "الدوري الفرنسي للسيدات -",
+    "image": "https://jdwel.com/image/comp-logo/60.png"
   },
   {
     "id": "serie-a-women",
-    "name": "الدوري الإيطالي للسيدات",
-    "image": ""
+    "name": "الدوري الإيطالي للسيدات الدرجة A",
+    "image": "https://jdwel.com/image/comp-logo/61.png"
   },
   {
     "id": "afc-wcl",
-    "name": "دوري أبطال آسيا للسيدات",
-    "image": ""
+    "name": "دوري أبطال آسيا للسيدات -",
+    "image": "https://jdwel.com/image/comp-logo/133.png"
   },
   {
     "id": "moroccan-women",
-    "name": "الدوري المغربي للسيدات",
-    "image": ""
+    "name": "الدوري المغربي للسيدات البطولة الوطنية",
+    "image": "https://jdwel.com/image/comp-logo/moroccan-league-v2.png"
   },
   {
     "id": "a-league-women",
-    "name": "الدوري الاسترالي للسيدات",
-    "image": ""
+    "name": "الدوري الاسترالي للسيدات الدرجة A",
+    "image": "https://jdwel.com/image/comp-logo/62.png"
   },
   {
     "id": "brasileiro-women",
-    "name": "الدوري البرازيلي للسيدات",
-    "image": ""
+    "name": "الدوري البرازيلي للسيدات -",
+    "image": "https://jdwel.com/image/comp-logo/65.png"
   },
   {
     "id": "paulista-women",
-    "name": "بطولة باوليستا للسيدات",
-    "image": ""
+    "name": "بطولة باوليستا للسيدات البرازيل",
+    "image": "https://jdwel.com/image/comp-logo/64.png"
   },
   {
     "id": "national-league-women",
-    "name": "الدوري النيوزيلندي للسيدات",
-    "image": ""
+    "name": "الدوري النيوزيلندي للسيدات -",
+    "image": "https://jdwel.com/image/comp-logo/30.png"
   },
   {
     "id": "asean-club-championship",
-    "name": "بطولة الأندية الآسيانية",
-    "image": ""
+    "name": "بطولة الأندية الآسيانية -",
+    "image": "https://jdwel.com/image/comp-logo/101.png"
   },
   {
     "id": "cecafa-kagame-cup",
-    "name": "كأس سيكافا للأندية",
-    "image": ""
+    "name": "كأس سيكافا للأندية كاغامي",
+    "image": "https://jdwel.com/image/comp-logo/134.png"
   }
 ]
